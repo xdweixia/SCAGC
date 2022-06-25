@@ -8,7 +8,7 @@ The Pytorch implementation demo for our revised and under-review TMM article: Se
 
 ## Run
 ```
-pythpon run_cluster.py
+python run_cluster.py
 ```
 
 ## Note
