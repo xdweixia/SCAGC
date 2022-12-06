@@ -1,5 +1,5 @@
 # SCAGC
-The Pytorch implementation demo for our TMM article: Self-consistent Contrastive Attributed Graph Clustering with Pseudo-label Prompt.
+The Pytorch implementation demo for our TMM-2022 article: [Self-consistent Contrastive Attributed Graph Clustering with Pseudo-label Prompt](https://ieeexplore.ieee.org/document/9914670).
 
 ## Requirements
 - Python 3.6
@@ -11,5 +11,8 @@ The Pytorch implementation demo for our TMM article: Self-consistent Contrastive
 python run_cluster.py
 ```
 
-## Note
-If you use some sub-functions, please let me know.
+### Acknowledgements
+Some codes are adapted from [GCA](https://github.com/CRIPAC-DIG/GCA) and [SupContrast](https://github.com/HobbitLong/SupContrast). We thank them for their excellent projects.
+
+### Contact
+If you have any problem about our code, feel free to contact xd.weixia@gmail.com or describe your problem in Issues.
