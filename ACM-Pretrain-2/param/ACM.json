@@ -1,0 +1,15 @@
+{
+    "learning_rate": 3e-4,
+    "Selfsup_learning_rate": 0.001,
+    "num_hidden": 256,
+    "num_proj_hidden": 128,
+    "activation": "rrelu",
+    "drop_edge_rate_1": 0.7,
+    "drop_edge_rate_2": 0.8,
+    "drop_feature_rate_1": 0.7,
+    "drop_feature_rate_2": 0.8,
+    "tau": 0.1,
+    "num_layers": 2,
+    "Selfsup_num_epochs": 1000,
+    "num_epochs": 2000
+}
