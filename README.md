@@ -11,11 +11,11 @@ This repo provides a demo for the TMM-2022 article: [Self-consistent Contrastive
 ```
 python \ACM-Pretrain-1\Pre_train_1.py
 ```
-Once the training is finished, then remember copy the generated `Pre_train_1.pkl` to the folder `\ACM-Pretrain-2`:
+Once the training is finished, then remember copy the generated `Pre_train_1.pkl` to the folder `ACM-Pretrain-2`:
 ```
 python \ACM-Pretrain-2\Pretrain_2.py
 ```
-Once the training is finished, then remember copy the generated `ACM_pretrain.pkl` to the folder `\ACM-Final`:
+Once the training is finished, then remember copy the generated `ACM_pretrain.pkl` to the folder `ACM-Final`:
 
 ### -Step 2: Clustering:
 ```
